@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/METC-Infra/metc-core-devops/main/assets/metc-logo.png" width="160"/>
+<img src="https://github.com/METC-Infra/metc-core-devops/tree/main/docs/assets" width="160"/>
 
 # METC-Infra GitHub Organization
 
