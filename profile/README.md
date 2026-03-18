@@ -29,3 +29,11 @@ Use our automated portal:
 Step-by-step instructions for non-technical users:
 
 👉 https://github.com/METC-Infra/metc-core-devops/blob/main/docs/full-guide.md
+
+---
+
+## 🏗️ Terraform Project Structure
+
+For new Terraform projects, follow our standardized structure guide:
+
+👉 https://github.com/METC-Infra/metc-core-devops/blob/main/docs/TERRAFORM_STRUCTURE_GUIDE.md
